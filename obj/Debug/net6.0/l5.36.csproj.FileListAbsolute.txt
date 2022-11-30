@@ -1,0 +1,15 @@
+C:\Users\Margarita\l5.36\bin\Debug\net6.0\l5.36.exe
+C:\Users\Margarita\l5.36\bin\Debug\net6.0\l5.36.deps.json
+C:\Users\Margarita\l5.36\bin\Debug\net6.0\l5.36.runtimeconfig.json
+C:\Users\Margarita\l5.36\bin\Debug\net6.0\l5.36.dll
+C:\Users\Margarita\l5.36\bin\Debug\net6.0\l5.36.pdb
+C:\Users\Margarita\l5.36\obj\Debug\net6.0\l5.36.csproj.AssemblyReference.cache
+C:\Users\Margarita\l5.36\obj\Debug\net6.0\l5.36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Margarita\l5.36\obj\Debug\net6.0\l5.36.AssemblyInfoInputs.cache
+C:\Users\Margarita\l5.36\obj\Debug\net6.0\l5.36.AssemblyInfo.cs
+C:\Users\Margarita\l5.36\obj\Debug\net6.0\l5.36.csproj.CoreCompileInputs.cache
+C:\Users\Margarita\l5.36\obj\Debug\net6.0\l5.36.dll
+C:\Users\Margarita\l5.36\obj\Debug\net6.0\refint\l5.36.dll
+C:\Users\Margarita\l5.36\obj\Debug\net6.0\l5.36.pdb
+C:\Users\Margarita\l5.36\obj\Debug\net6.0\l5.36.genruntimeconfig.cache
+C:\Users\Margarita\l5.36\obj\Debug\net6.0\ref\l5.36.dll
